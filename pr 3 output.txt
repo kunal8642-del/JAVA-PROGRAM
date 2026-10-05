@@ -1,0 +1,8 @@
+Add two integer: 15
+Add three integer : 30
+Add two Double : 10.3
+name : unknown, Age : 0
+name : Kunal, Age : 21
+name : Kunal, Age : 21
+student s4 details (reference to s2):
+name : Kunal, Age : 21
